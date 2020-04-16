@@ -6,6 +6,8 @@ class ClassName {
       this.x.push(z)
     }
 
+    var x = 0;
+
     100
 
     function testing(a, b, c) {
