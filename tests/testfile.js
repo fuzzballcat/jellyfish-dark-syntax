@@ -1,6 +1,6 @@
 class ClassName {
   constructor() {
-    print(/ab/)
+    print(/((ab)+asdfb-asdf*)+(?!a)+/)
 
     for(z of t){
       this.x.push(z)
