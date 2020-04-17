@@ -1,4 +1,4 @@
-# Jellyfish Dark
+# Jellyfish Dark Syntax Theme
 
 A very dark theme for the Atom text editor.
 Oh, and very blue.
