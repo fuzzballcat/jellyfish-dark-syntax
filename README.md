@@ -12,7 +12,7 @@ Oh, and very blue.
 
 ![Python Demo](https://github.com/fuzzballcat/jellyfish-dark-syntax/raw/master/img/python.png)
 
-*Jellyfish Dark, highlighting HTML*
+*Jellyfish Dark, highlighting HTML:*
 
 ![HTML Demo](https://github.com/fuzzballcat/jellyfish-dark-syntax/raw/master/img/html.png)
 
