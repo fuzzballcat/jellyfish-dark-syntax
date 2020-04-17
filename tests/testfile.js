@@ -4,6 +4,8 @@ class ClassName {
 
     for(z of t){
       this.testattribute.push(z)
+
+      `${x}${b}`
     }
 
     var x = 0;
