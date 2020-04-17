@@ -9,9 +9,13 @@ Oh, and very blue.
 
 *Jellyfish Dark, highlighting Haskell*
 
+
+
 ![Python Demo](https://github.com/fuzzballcat/jellyfish-dark-syntax/raw/master/img/python.png)
 
 *Jellyfish Dark, highlighting Python*
+
+
 
 ![HTML Demo](https://github.com/fuzzballcat/jellyfish-dark-syntax/raw/master/img/html.png)
 
