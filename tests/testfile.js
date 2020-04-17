@@ -3,7 +3,7 @@ class ClassName {
     print(/((ab)+asdfb-asdf*)+(?!a)+/)
 
     for(z of t){
-      this.x.push(z)
+      this.testattribute.push(z)
     }
 
     var x = 0;

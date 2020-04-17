@@ -6,4 +6,4 @@ A very dark theme.
 Oh, and very blue.
 
 
-A dark UI theme is recommended, such as "Atom Dark Minimal".
+This pairs well with the Jellyfish Dark UI theme.
